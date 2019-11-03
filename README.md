@@ -1,7 +1,7 @@
-﻿# [RT1062](https://github.com/sochub/RT1062)
+﻿# [i.MX RT1062](https://github.com/sochub/RT1062)
 [![sites](SoC/SoC.png)](http://www.qitas.cn) 
 #### [Vendor](https://github.com/sochub/Vendor)：[NXP](https://github.com/sochub/NXP)
-#### [ARM]](https://github.com/sochub/ARM)：[cortex M7](https://github.com/sochub/CM7)
+#### [ARM](https://github.com/sochub/ARM)：[cortex M7](https://github.com/sochub/CM7)
 #### [Level](https://github.com/sochub/Level)：3020 CoreMark/1284 DMIPS @ 600 MHz
 
 ## [描述](https://github.com/sochub/RT1062/wiki) 
@@ -12,6 +12,9 @@ i.MX RT1060将片上SRAM 的容量翻倍，达到了1MB，同时保持了与i.MX
 
 ### [选型建议](https://github.com/sochub)
 
-[RT1062](https://github.com/sochub/RT1062)是高阶控制器，主要竞品为[STM32H750](https://github.com/sochub/STM32H750)系列
+
+[RT1062](https://github.com/sochub/RT1062)是高阶控制器，主要的开源应用为teensy 4.0 Arduino USB开发板，衍生出大量的开源软硬件资源。
+
+主要竞品 [STM32H750](https://github.com/sochub/STM32H750)系列，拥有后发优势，不错的定位和更新迭代，加之ST在开发工具和开发资源上的积累，后者表现不俗。
 
 ###  [SoC资源平台](http://www.qitas.cn)   
